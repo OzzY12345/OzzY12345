@@ -82,7 +82,7 @@ A typed knowledge-ops methodology for running a solo multi-product operation. Do
 
 - **Languages:** Python, TypeScript, JavaScript, Node.js
 - **Backend / Data:** PostgreSQL, REST APIs, FastAPI / Fastify, Next.js, Telegram Bot API
-- **AI / LLM:** OpenRouter, DeepSeek, GPT / Claude, GPT Image, structured output, prompt engineering, LLM orchestration, AI automation
+- **AI / LLM:** OpenRouter, GPT / Claude / Gemini, GPT Image, structured output, prompt engineering, LLM orchestration, AI automation
 - **Infra:** Linux, Ubuntu, Nginx, Docker, GitHub Actions, VPS, systemd
 - **Workflow:** Codex, Claude Code, MCP servers, agentic coding workflows
 
