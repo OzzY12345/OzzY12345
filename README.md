@@ -5,7 +5,28 @@ AI Engineer / AI-first Developer focused on LLM integrations, automation, and fu
 I build practical AI-powered products end-to-end: product logic, architecture, backend, LLM pipelines, payments, deployment, and iteration.
 My work is focused on using LLMs as engineering tools to ship real products faster, not as decoration.
 
-## Selected Public Projects
+## Selected Projects
+
+### [Alterega Platform](https://github.com/egordushenko/alterega-platform)
+
+Architecture showcase for a commercial ecosystem of video-editing tools for Adobe Premiere Pro and After Effects, built and operated solo.
+
+Three product lines across five builds (AEGACut plugin and desktop, AEGAPanel, AEGA Sync for Premiere and After Effects), a central licensing service, payment pipeline, storefront, and Telegram-based delivery. Actively operated in production.
+
+**What it demonstrates:**
+
+* full-cycle commercial product engineering as a single operator
+* HWID-bound licensing core shared across five product builds
+* Adobe CEP panel development with ExtendScript and Python sidecars
+* Electron desktop packaging on Windows
+* server-side payment confirmation pipeline (Robokassa) with Telegram and SMTP delivery
+* VPS operations: Nginx, systemd, PostgreSQL, GitHub Actions
+
+**Stack:** Node.js, Fastify, Next.js, React, TypeScript, Python, Electron, Adobe CEP, ExtendScript, PostgreSQL, ffmpeg, Linux VPS.
+
+Website: [alterega.ru](https://alterega.ru)
+
+---
 
 ### [Redmine AI Technical Planner](https://github.com/egordushenko/redmine-ai-technical-planner)
 
@@ -45,33 +66,27 @@ The bot generates SEO titles, descriptions, keywords, characteristics, and AI pr
 
 ---
 
-## Commercial Product Work
+### [PAI Methodology](https://github.com/egordushenko/pai-methodology)
 
-I also build and operate commercial software products under the Alterega brand.
+A typed knowledge-ops methodology for running a solo multi-product operation. Documents the system that backs the Alterega platform: typed separation between identity, applications, projects, research, stacks, and tasks; explicit source-of-truth boundaries; privacy auditing and context recovery for agent-assisted work.
 
-Main product line: tools and plugins for Adobe Premiere Pro and After Effects, including licensing, payments, subscriptions, delivery, infrastructure, and support.
+**What it demonstrates:**
 
-Website: [alterega.ru](https://alterega.ru)
+* operational maturity beyond product code
+* designing systems that scale a single engineer across multiple shipping products
+* agent-ready knowledge architecture (ISA, privacy zones, context search, instruction diet)
 
 ---
 
 ## Tech Stack
 
 - **Languages:** Python, TypeScript, JavaScript, Node.js
-- **Backend / Data:** PostgreSQL, REST APIs, FastAPI / Fastify, Telegram Bot API
+- **Backend / Data:** PostgreSQL, REST APIs, FastAPI / Fastify, Next.js, Telegram Bot API
 - **AI / LLM:** OpenRouter, DeepSeek, GPT / Claude, GPT Image, structured output, prompt engineering, LLM orchestration, AI automation
 - **Infra:** Linux, Ubuntu, Nginx, Docker, GitHub Actions, VPS, systemd
 - **Workflow:** Codex, Claude Code, MCP servers, agentic coding workflows
 
 ---
-
-## Current Focus
-
-* LLM integrations for real business workflows
-* AI automation tools
-* developer productivity agents
-* Telegram / backend products
-* practical AI-first product engineering
 
 ## Links
 
