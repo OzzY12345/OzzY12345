@@ -1,3 +1,15 @@
+<div align="center">
+
+# Egor Dushenko
+
+**AI Engineer** · LLM integrations · automation · full-cycle product development
+
+</div>
+
+I build practical AI-powered products end-to-end — product logic, architecture, backend, LLM pipelines, payments, and deployment. I use LLMs as engineering tools to ship real products faster, not as decoration.
+
+---
+
 ## Selected Projects
 
 ### [Alterega Platform](https://github.com/egordushenko/alterega-platform)
@@ -53,3 +65,22 @@ Telegram bot that generates marketplace product cards for Wildberries and Ozon s
 A typed knowledge-ops methodology for running a solo multi-product operation — the system that backs the Alterega platform. Typed separation between identity, applications, projects, research, stacks, and tasks; explicit source-of-truth boundaries; privacy auditing and context recovery for agent-assisted work. Operational maturity beyond product code.
 
 **Stack:** agent-ready knowledge architecture (ISA, privacy zones, context search, instruction diet).
+
+---
+
+## Tech Stack
+
+| Area | Tools |
+|---|---|
+| **Languages** | Go, Python, TypeScript, JavaScript |
+| **AI / LLM** | OpenRouter, GPT / Claude / Gemini, GPT Image, structured output, LLM orchestration |
+| **Backend** | Node.js, Fastify, Next.js, FastAPI, PostgreSQL, REST |
+| **Infra** | Linux, Nginx, Docker, systemd, GitHub Actions, VPS |
+| **Workflow** | Claude Code, Codex, MCP servers, agentic coding |
+
+---
+
+## Links
+
+- Website — [alterega.ru](https://alterega.ru)
+- Telegram — [@alterega](https://t.me/alterega)
