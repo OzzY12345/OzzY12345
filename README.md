@@ -2,7 +2,7 @@
 
 # Egor Dushenko
 
-**AI Engineer** · LLM integrations · automation · full-cycle product development
+**AI Engineer** · LLM integrations · Automation · Full-cycle Product development
 
 </div>
 
